@@ -1,0 +1,10 @@
+[事前準備]
+・ライブラリをインストール
+　pip install requests
+　pip install beautifulsoup4
+　pip install selenium
+
+・Edge最新化(Edgeのアドレスバーと同じ最上行の右端…＞ヘルプとフィードバック＞Microsoft Edgeについて)
+・Edgeのバージョンと同じMicrosoft Edge WebDriverをダウンロード
+　https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/?form=MA13LH
+・↑を解凍してmsedgedriver.exeをYahoo_Img_Search.pyファイルと同じ場所に置く
